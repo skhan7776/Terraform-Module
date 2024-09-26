@@ -17,3 +17,11 @@ variable "name"{
     type = string
     default = "first module"
 }
+
+variable "subnet_id" {
+  
+}
+
+variable "security_groups" {
+  
+}
